@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import SearchBar from "./share/search/SearchBar";
-import vasili from "../assets/vasili.svg";
+import vasil from "../assets/vasil.svg";
 import Warrants from "./share/warrants/Warrants";
 import arrow_left from "../assets/Arrow2.svg";
 import arrow_right from "../assets/Arrow1.svg";
@@ -32,27 +32,27 @@ const Profiles = () => {
                 <Warrants
                   name="VASILI   HUSAK"
                   description="id: 2423523"
-                  image={vasili}
+                  image={vasil}
                 />
                 <Warrants
                   name="VASILI   HUSAK"
                   description="id: 2423523"
-                  image={vasili}
+                  image={vasil}
                 />
                 <Warrants
                   name="VASILI   HUSAK"
                   description="id: 2423523"
-                  image={vasili}
+                  image={vasil}
                 />
                 <Warrants
                   name="VASILI   HUSAK"
                   description="id: 2423523"
-                  image={vasili}
+                  image={vasil}
                 />
                 <Warrants
                   name="VASILI   HUSAK"
                   description="id: 2423523"
-                  image={vasili}
+                  image={vasil}
                 />
               </div>
             </div>
@@ -67,7 +67,7 @@ const Profiles = () => {
                   <div className="flex gap-3 h-[30vh] ">
                     <img
                       className="pt-1 h-[15vh] w-[15vh]"
-                      src={vasili}
+                      src={vasil}
                       alt=""
                     />
                     <div className="flex flex-col gap-2 h-[16vh] ">

@@ -1,7 +1,7 @@
 import React from "react";
 import SearchBar from "./share/search/SearchBar";
 import Warrants from "./share/warrants/Warrants";
-import vasili from "../assets/vasili.svg";
+import vasil from "../assets/vasil.svg";
 import { useNavigationState } from "../atoms/navigationAtom";
 import IssueWarrantBlue from "./share/IssueWarrant/IssueWarrantBlue";
 import IssueWarrantGray from "./share/IssueWarrant/IssueWarrantGray";
@@ -24,27 +24,27 @@ const Profiles2 = () => {
               <Warrants
                 name="VASILI HUSAK"
                 description="id: 2423523"
-                image={vasili}
+                image={vasil}
               />
               <Warrants
                 name="VASILI HUSAK"
                 description="id: 2423523"
-                image={vasili}
+                image={vasil}
               />
               <Warrants
                 name="VASILI HUSAK"
                 description="id: 2423523"
-                image={vasili}
+                image={vasil}
               />
               <Warrants
                 name="VASILI HUSAK"
                 description="id: 2423523"
-                image={vasili}
+                image={vasil}
               />
               <Warrants
                 name="VASILI HUSAK"
                 description="id: 2423523"
-                image={vasili}
+                image={vasil}
               />
             </div>
           </div>
@@ -59,7 +59,7 @@ const Profiles2 = () => {
             </div>
             <div className="h-[20%] bg-transparent rounded-lg px-5 mr-5 w-full">
               <div className="h-[100%] w-full flex gap-3 items-center">
-                <img src={vasili} alt="" />
+                <img src={vasil} alt="" />
                 <div className="w-full h-full flex flex-col justify-center">
                   <div className="flex justify-between">
                     <div className="text-2xl">VASILI HUSAK</div>

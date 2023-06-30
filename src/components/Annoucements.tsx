@@ -5,7 +5,7 @@ import ArrowLeft from "./share/arrows/ArrowLeftButton";
 import SearchBar from "./share/search/SearchBar";
 import Warrants from "./share/warrants/Warrants";
 import Warning from "./share/warning/Warning";
-import vasili from "../assets/Vasili.svg";
+import vasil from "../assets/vasil.svg";
 import warningIMG from "../assets/warning_amber.svg";
 
 const Announcements = () => {
@@ -71,14 +71,14 @@ const Announcements = () => {
                   <Warrants
                     name="VASILI HUSAK"
                     description="LOREM IPSUM IS SIMPLY DUMMY TEXT OF THE PRINTING AND TYPESETTING INDUSTRY. LOREM IPSUM HAS BEEN THE INDUSTRY'S"
-                    image={vasili}
+                    image={vasil}
                   />
                 </div>
                 <div className="">
                   <Warrants
                     name="VASILI HUSAK"
                     description="LOREM IPSUM IS SIMPLY DUMMY TEXT OF THE PRINTING AND TYPESETTING INDUSTRY. LOREM IPSUM HAS BEEN THE INDUSTRY'S"
-                    image={vasili}
+                    image={vasil}
                   />
                 </div>
               </div>
