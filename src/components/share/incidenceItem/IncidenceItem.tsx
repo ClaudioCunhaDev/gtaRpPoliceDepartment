@@ -1,5 +1,5 @@
 import React from "react";
-import feedBack from "../../../assets/feedBack.svg";
+import feedBack from "../../../assets/feedback.svg";
 import editImg from "../../../assets/editImg.svg";
 import deleteImg from "../../../assets/deleteImg.svg";
 import INCIDENCE1 from "../../../assets/INCIDENCE1.svg";
