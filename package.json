@@ -4,9 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite",  
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deployVercel": "push-dir --dir=dist --branch=vercel --cleanup"
   },
   "dependencies": {
     "react": "^18.2.0",
